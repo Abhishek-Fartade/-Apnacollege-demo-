@@ -1,2 +1,3 @@
 # -Apnacollege-demo-
-This is  my first Git Repos itory
+This is  my first Git Repository
+Author - Abhishek fartade
